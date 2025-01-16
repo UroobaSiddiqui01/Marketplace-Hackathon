@@ -1,4 +1,3 @@
-# Marketplace-Hackathon
 # Creative Clay Creations - Business Proposal
 
 Welcome to my **Creative Clay Creations** business proposal! This repository contains the foundation of my modern concrete home décor business, specializing in minimalistic and durable designs for contemporary living spaces.
@@ -10,7 +9,7 @@ Welcome to my **Creative Clay Creations** business proposal! This repository con
 ## **Download the PDF**
 
 For a detailed overview of the business plan with **hand-drawn designs and product concepts**, download the PDF here:\
-[Download PDF](.https://drive.google.com/drive/folders/1CeOgBY-sRd1MG1eUsCk4NCKP-ejw7x7G)
+[Download PDF](https://drive.google.com/drive/folders/1CeOgBY-sRd1MG1eUsCk4NCKP-ejw7x7G)
 
 ---
 
@@ -107,4 +106,6 @@ This flowchart explains the customer order process:
 Thank you for exploring **Creative Clay Creations**! Feel free to connect and collaborate for custom design projects.
 
 *Prepared by Urooba Siddiqui*
+
+
 
