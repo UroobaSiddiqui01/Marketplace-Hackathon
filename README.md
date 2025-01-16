@@ -10,7 +10,7 @@ Welcome to my **Creative Clay Creations** business proposal! This repository con
 ## **Download the PDF**
 
 For a detailed overview of the business plan with **hand-drawn designs and product concepts**, download the PDF here:\
-[Download PDF](./Creative_Clay_Creations_Business_Plan.pdf)
+[Download PDF](.https://drive.google.com/drive/folders/1CeOgBY-sRd1MG1eUsCk4NCKP-ejw7x7G)
 
 ---
 
