@@ -33,6 +33,8 @@ For a detailed overview of the business plan with **hand-drawn designs and produ
 4. **Unique Features:** Handmade designs, customizable products, sustainable production methods.
 
 ---
+![Business Goals](./IMG-20250115-WA0203.jpg)
+
 
 ## **Workflow**
 
